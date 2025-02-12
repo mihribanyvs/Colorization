@@ -1,0 +1,2 @@
+num_epoch, first_epoch_loss, last_epoch_loss, loss_mean, loss_deviation, model_name, time(min)
+30, 4.7793, 4.9931, 4.9879, 0.0389, "yuv_classification_30ep", 107
