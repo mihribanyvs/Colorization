@@ -1,4 +1,5 @@
 import matplotlib.pyplot as plt
+import numpy as np
 
 # Funzione per visualizzare un'immagine da un tensor
 def imshow(tensor_img, cmap=None, yuv = False):
